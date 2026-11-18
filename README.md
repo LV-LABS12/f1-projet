@@ -1,9 +1,9 @@
 # La pole position fait-elle gagner en Formule 1 ?
 
-Projet d'analyse de données réalisé pendant ma formation BTS SIO (SLAM).
+Projet d'analyse de données réalisé pendant ma formation BTS SIO.[Voir le dashboard en ligne] (https://f1-projet-k6zqqxh3j7wtajvab76zsg.streamlit.app)
 
 ## Pourquoi ce projet
-(Écris ici 2 ou 3 phrases avec tes mots : ta passion pour la F1, ce que tu voulais comprendre.)
+Étant passionné de Formule 1, j'ai choisi de réaliser ce projet afin d'approfondir mes connaissances sur ce sport à travers une analyse statistique.
 
 ## Question
 Partir en pole position garantit-il la victoire ? L'effet varie-t-il selon les circuits ?
